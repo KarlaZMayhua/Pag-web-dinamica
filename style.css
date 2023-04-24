@@ -5,7 +5,7 @@ body {
   }
   h1 {
     text-align: center;
-    color: #1a485f;
+    color: #669b6c;
   }
 
   form {
@@ -38,7 +38,7 @@ body {
     margin-right: 10px;
   }
   input[type="submit"] {
-    background-color: #428bca;
+    background-color: #3c688e;
     color: #fff;
     border: none;
     border-radius: 5px;
